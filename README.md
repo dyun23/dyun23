@@ -24,7 +24,7 @@
         <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
         <!--       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"> --> 
         <hr>
-        <br><div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 📚 Used :</div><br>
+        <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 📚 Used :</div><br>
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
         <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
         <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"><br>
