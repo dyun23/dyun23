@@ -1,12 +1,12 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb69f,100:e16973&height=180&text=Hello,%20I'm%20Dayun&animation=&fontColor=ffffff&fontSize=50" />
-    <a href="https://github.com/devxb/gitanimals">
-        <img
-          src="https://render.gitanimals.org/farms/dyun23"
-          width="600"
-          height="300"
-        />
-    </a>
+<a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/dyun23"
+      width="600"
+      height="300"
+    />
+</a>
 </div>
 <!--     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Introduce </h2>  
@@ -38,20 +38,18 @@
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"><br>
         <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
         <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-<!--         <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> -->
-<!--         <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"> -->
-<!--         <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"> -->
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
         </div>
     </div>
     <div style="text-align: left;"> 
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
         <div style="text-align: left;">
-            <img src="https://github-readme-stats.vercel.app/api?username=dyun23&count_private=true&bg_color=60,ffb69f,de758b&title_color=ffffff&text_color=ffffff"/><br>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyun23&count_private=true&show_icons=true&layout=compact&bg_color=60,ffb69f,de758b&title_color=ffffff&text_color=ffffff"/> 
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyun23&count_private=true&show_icons=true&layout=compact&bg_color=60,ffb69f,de758b&title_color=ffffff&text_color=ffffff"/><br>
+            <img src="https://github-readme-stats.vercel.app/api?username=dyun23&count_private=true&bg_color=60,ffb69f,de758b&title_color=ffffff&text_color=ffffff"/>
         </div> 
     </div>
         <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> 
     <div style="text-align: left;"> 
         <a href=https://velog.io/@dyun23> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@dyun23"> </a>
         <a href=mailto:ozsally0201@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ozsally0201@gmail.com"> </a>
